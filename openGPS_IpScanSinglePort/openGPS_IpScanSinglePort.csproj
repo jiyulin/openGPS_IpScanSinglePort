@@ -7,7 +7,7 @@
     <ProjectGuid>{DE64487A-3254-4AF9-A024-846ED6CC4610}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>openGPS_IpScanSinglePort</RootNamespace>
-    <AssemblyName>openGPS_IpScanSinglePort</AssemblyName>
+    <AssemblyName>IP段单端口扫描</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
