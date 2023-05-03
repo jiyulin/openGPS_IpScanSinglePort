@@ -12,7 +12,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace openGPS_IpScanSinglePort
+namespace openGPS_MoreIpSinglePortScan
 {
     public partial class MainForm : Form
     {
