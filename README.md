@@ -1,2 +1,2 @@
 # openGPS_IpScanSinglePort
-单端口ip扫描
+IP段单端口扫描
